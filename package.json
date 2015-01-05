@@ -1,0 +1,9 @@
+{
+  "name": "pasha",
+  "description": "SPA Framework for js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yu-ichiko/pasha.git"
+  }
+}
